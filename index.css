@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0px 10px;
+  font-family: Helvetica;
+}
+
+h3, p {
+  margin: 18px 5px 18px;
+}
+
+.site-title h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  margin: 0px 5px 67px;
+}
+
+.site-title {
+  background-image: url("/Users/stevenlo-giacco/Documents/Web Projects/Dasmotos Arts and Crafts/Resources/Images/pattern.jpeg")
+}
+
+#section-title-brush {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 26.56px 0px;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#section-title-frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 26.56px 0px;
+  color: white;
+  background-color: lightcoral;
+}
+
+#section-title-paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 26.56px 0px;
+  color: white;
+  background-color: skyblue;
+}
+
+p span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
